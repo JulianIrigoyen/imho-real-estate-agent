@@ -1,6 +1,6 @@
 AI Real Estate Agent - Project Bootstrap Guide
 Project Overview
-Building an AI-powered real estate agent for the Argentine market using Vercel AI SDK, with integrations for ZonaProp, MercadoLibre, and Los Robles.
+Building an AI-powered real estate agent for the Argentine market using Vercel AI SDK, with integrations for ZonaProp, MercadoLibre, and many more.
 Quick Start
 1. Initialize the Project
 bashnpx create-next-app@latest ai-real-estate-agent --typescript --tailwind --app
